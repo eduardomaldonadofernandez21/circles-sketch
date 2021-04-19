@@ -25,7 +25,7 @@ Se ha añadido una serie de funciones para poder tener unos distintos puntos de 
 
 
 ## Descarga e instalación
-Para poder probar este programa, se puede acceder mediante a este link: https://editor.p5js.org/eduardomaldonadofernandez21/full/xgJix3TSP.
+Para poder probar este sketch, se puede acceder mediante a este link: https://editor.p5js.org/eduardomaldonadofernandez21/full/xgJix3TSP.
 
 ## Comentarios
-Debido a las texturas y algunos objetos 3D, este programa funciona de una manera bastante lenta.
+Si se va a descargar el sketch para probarlo en el PC, con el navegador google Chrome no se me carga correctamente. En cambio, con Firefox si se ejecuta correctamente.
