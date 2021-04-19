@@ -12,7 +12,7 @@ Para esta práctica 8, se ha realizado un sketch en p5.js que interraciona con e
 ## Descripción
 Se ha programado en processing 
 
-![office](/office.gif "Oficina")
+![Ejemplo del sketch](/circle_sketch.gif "Circle Sketch")
 
 ## Controles de la vista e iluminación
 
